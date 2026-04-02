@@ -1,7 +1,3 @@
-Here’s a clean, production-style `README.md` that walks from simple → scalable approaches, with diagrams and engineering considerations.
-
----
-
 # 🏆 Scoreboard API Module – Technical Specification
 
 ## 📌 Overview
